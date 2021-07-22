@@ -40,12 +40,6 @@
     div.box1 {
         width: 100%;
     }
-    div.box2 {
-        width: 50%;
-    }
-    div.box3 {
-        width: 50%;
-    }
  }
  @media (min-width: 768px) and (max-width: 991px) {
     div.box1{
