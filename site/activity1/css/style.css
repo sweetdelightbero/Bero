@@ -5,7 +5,7 @@
      background-color: mediumpurple;
  }
  div{
-     border: 3px mediumpurple solid;
+     border: 1px mediumpurple solid;
      width: 55.55%;
      float: left;
      position: relative;
@@ -20,21 +20,22 @@
  }
 
  div p.title{
+     border: 1px maroon solid;
      font-weight: bolder;
-     font-size: 75%;
      background-color: limegreen;
-     width: 35%;
-     height: 30%;
-     top: 0;
-     bottom: 0;
-     right: 0;
  }
  h1{
      text-align: center;
      padding-top: 5%;
      padding-bottom: 5%;
-     font-size: 50px;
      font-family: fantasy;
+ }
+ p.title{
+     width: 35%;
+     height: 30%;
+     top: 0;
+     bottom: 0;
+     right: 0;
  }
 
  @media (max-width: 992px) {
