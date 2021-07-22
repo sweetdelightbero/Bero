@@ -21,23 +21,21 @@
 
  div p.title{
      position: absolute;
+     width: 35%;
+     height: 30%;
+     top: 0;
+     bottom: 0;
+     right: 0;
      border: 1px maroon solid;
      font-weight: bolder;
      background-color: limegreen;
+     
  }
  h1{
      text-align: center;
      padding-top: 5%;
      padding-bottom: 5%;
      font-family: fantasy;
- }
- p.title{
-     position: absolute;
-     width: 35%;
-     height: 30%;
-     top: 0;
-     bottom: 0;
-     right: 0;
  }
 
  @media (max-width: 992px) {
