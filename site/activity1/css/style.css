@@ -6,7 +6,7 @@
  }
  div{
      border: 1px mediumpurple solid;
-     width: 55.55%;
+     width: 33.33%;
      float: left;
      position: relative;
      padding: 10px;   
@@ -22,7 +22,7 @@
  div p.title{
      border: 1px maroon solid;
      position: absolute;
-     width: 30%;
+     width: 35%;
      height: 30%;
      top: 0;
      bottom: 0;
