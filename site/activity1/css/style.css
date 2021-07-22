@@ -35,6 +35,11 @@
      padding-bottom: 5%;
      font-family: fantasy;
  }
+ @media (max-width: 992px) {
+    div {
+        width: 100%
+    }
+ }
  @media (min-width: 768px) and (max-width: 991px) {
     div.box1{
         width: 50%;
