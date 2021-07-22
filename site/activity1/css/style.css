@@ -20,13 +20,13 @@
  }
 
  div p.title{
+     border: 1px maroon solid;
      position: absolute;
-     width: 35%;
+     width: 30%;
      height: 30%;
      top: 0;
      bottom: 0;
      right: 0;
-     border: 1px maroon solid;
      font-weight: bolder;
      background-color: limegreen;
      
