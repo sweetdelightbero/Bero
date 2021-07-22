@@ -20,6 +20,7 @@
  }
 
  div p.title{
+     position: absolute;
      border: 1px maroon solid;
      font-weight: bolder;
      background-color: limegreen;
